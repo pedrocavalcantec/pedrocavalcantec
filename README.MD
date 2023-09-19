@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFC53A&size=52&center=true&vCenter=true&height=100&width=1000&lines=HELLO,NICE TO MEET YOU !;My+name+is+Pedro;I'm+21+years+old;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/color=FFC53A&size=52&center=true&vCenter=true&height=100&width=1000&lines=HELLO,NICE+ TO+MEET+YOU!;My+name+is+Pedro;I'm+21+years+old;)](https://git.io/typing-svg)
+
 
 <table>
 <tr> <th colspan="2"> <h2>  git status </h2> </th> </tr>
