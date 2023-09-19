@@ -13,4 +13,4 @@
 </table>
 
    
-      <img alt="PEDRO-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+ <img alt="PEDRO-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
